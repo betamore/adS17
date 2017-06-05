@@ -39,3 +39,5 @@ Office hours: TBD
 *	GA Command Line [Tutorial](http://generalassembly.github.io/prework/cl/#/)
 *	Git [Tutorial](https://try.github.io/levels/1/challenges/1)
 *	[First](https://github.com/betamore/adS17/blob/master/notebooks/01.ipynb), [Second](https://github.com/betamore/adS17/blob/master/notebooks/02.ipynb), [Third](https://github.com/betamore/adS17/blob/master/notebooks/03.ipynb), [Fourth](https://github.com/betamore/adS17/blob/master/notebooks/04.ipynb) Python Basics notebooks
+*	[Fifth](https://github.com/betamore/adS17/blob/master/notebooks/05.ipynb), [Sixth](https://github.com/betamore/adS17/blob/master/notebooks/06.ipynb), [Seventh](https://github.com/betamore/adS17/blob/master/notebooks/07.ipynb), and [Review](https://github.com/betamore/adS17/blob/master/notebooks/python-basics.ipynb) Python Basics notebooks
+
