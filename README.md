@@ -41,3 +41,11 @@ Office hours: TBD
 *	[First](https://github.com/betamore/adS17/blob/master/notebooks/01.ipynb), [Second](https://github.com/betamore/adS17/blob/master/notebooks/02.ipynb), [Third](https://github.com/betamore/adS17/blob/master/notebooks/03.ipynb), [Fourth](https://github.com/betamore/adS17/blob/master/notebooks/04.ipynb) Python Basics notebooks
 *	[Fifth](https://github.com/betamore/adS17/blob/master/notebooks/05.ipynb), [Sixth](https://github.com/betamore/adS17/blob/master/notebooks/06.ipynb), [Seventh](https://github.com/betamore/adS17/blob/master/notebooks/07.ipynb), and [Review](https://github.com/betamore/adS17/blob/master/notebooks/python-basics.ipynb) Python Basics notebooks
 
+***Class 3: Numpy + Intro to Pandas***
+
+* [Intro to Numpy](https://github.com/betamore/adS17/blob/master/notebooks/04_numpy_ref.ipynb)
+* [Numpy review](https://github.com/betamore/adS17/blob/master/notebooks/numpy-review.ipynb)
+* [Numpy lab](https://github.com/betamore/adS17/blob/master/notebooks/np-practice.ipynb)
+* [Intro Pandas](https://github.com/betamore/adS17/blob/master/notebooks/02-pandas.ipynb)
+
+
