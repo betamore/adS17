@@ -60,6 +60,7 @@ Office hours: TBD
 ***Class 6: Intro to Data Visualization***
 
 * [Viz nb](https://github.com/betamore/adS17/blob/master/notebooks/03-visualisation.ipynb)
+* [Tim's new exploratory data analysis page](http://pythonplot.com/)
 
 
 
