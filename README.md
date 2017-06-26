@@ -46,6 +46,21 @@ Office hours: TBD
 * [Intro to Numpy](https://github.com/betamore/adS17/blob/master/notebooks/04_numpy_ref.ipynb)
 * [Numpy review](https://github.com/betamore/adS17/blob/master/notebooks/numpy-review.ipynb)
 * [Numpy lab](https://github.com/betamore/adS17/blob/master/notebooks/np-practice.ipynb)
+
+
+***Class 4: Pandas***
+
 * [Intro Pandas](https://github.com/betamore/adS17/blob/master/notebooks/02-pandas.ipynb)
+
+***Class 5: Pandas Lab + Review***
+
+* [Pandas Lab](https://github.com/betamore/adS17/blob/master/notebooks/02_pandas_lab.ipynb))
+* [Review Exercises](https://github.com/betamore/adS17/blob/master/notebooks/02_practice_exercises.ipynb)
+
+***Class 6: Intro to Data Visualization***
+
+* [Viz nb](https://github.com/betamore/adS17/blob/master/notebooks/03-visualisation.ipynb)
+
+
 
 
