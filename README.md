@@ -54,12 +54,16 @@ Office hours: TBD
 
 ***Class 5: Pandas Lab + Review***
 
-* [Pandas Lab](https://github.com/betamore/adS17/blob/master/notebooks/02_pandas_lab.ipynb))
+* [Pandas Lab](https://github.com/betamore/adS17/blob/master/notebooks/02_pandas_lab.ipynb)
 * [Review Exercises](https://github.com/betamore/adS17/blob/master/notebooks/02_practice_exercises.ipynb)
 
 ***Class 6: Intro to Data Visualization***
 
+* [Solutions to review function exercises](https://github.com/betamore/adS17/blob/master/notebooks/02_practice_exercises-solution.ipynb)
+* [Principles of Analytic Graphing](https://github.com/betamore/adS17/blob/master/notes/PrinciplesofAnalyticGraphing.pdf)
 * [Viz nb](https://github.com/betamore/adS17/blob/master/notebooks/03-visualisation.ipynb)
+* [Harvard CS109 -- Rubric for Data Wrangling](http://nbviewer.jupyter.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb)
+* [Extra Help with Pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 * [Tim's new exploratory data analysis page](http://pythonplot.com/)
 
 
