@@ -67,6 +67,17 @@ Office hours: TBD
 * [Viz nb](https://github.com/betamore/adS17/blob/master/notebooks/03-visualisation.ipynb)
 * [Iris practice](https://github.com/betamore/adS17/blob/master/notebooks/iris_practice.ipynb)
 
+***Class 7: Intro ML - Sklearn + KNN***
+
+* [Revisit intro ML slides](https://github.com/betamore/adS17/blob/master/slides/DS_Lecture1.pdf)
+* [Numpy reference](https://github.com/betamore/datasciencew17/blob/master/notebooks/04_numpy_ref.ipynb)
+* [K-Nearest Neighbors](https://github.com/betamore/adS17/blob/master/notebooks/04_sklearn_knn.ipynb)
+* [KNN Lab](https://github.com/betamore/adS17/blob/master/notebooks/04_knn_lab.ipynb)
+
+***Class 8: Linear Regression***
+
+
+
 
 
 
