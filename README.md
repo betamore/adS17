@@ -74,8 +74,11 @@ Office hours: TBD
 * [K-Nearest Neighbors](https://github.com/betamore/adS17/blob/master/notebooks/04_sklearn_knn.ipynb)
 * [KNN Lab](https://github.com/betamore/adS17/blob/master/notebooks/04_knn_lab.ipynb)
 
-***Class 8: Linear Regression***
+***Class 8: Bias Variance Tradeoff and Model Evaluation***
 
+* [Understanding the bias variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+* [Bias variance tradeoff nb](https://github.com/betamore/datasciencew17/blob/master/notebooks/05_bias_variance_tradeoff.ipynb)
+* [Model evaluation notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/05_model_evaluation.ipynb)
 
 
 
