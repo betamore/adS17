@@ -80,6 +80,12 @@ Office hours: TBD
 * [Bias variance tradeoff nb](https://github.com/betamore/datasciencew17/blob/master/notebooks/05_bias_variance_tradeoff.ipynb)
 * [Model evaluation notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/05_model_evaluation.ipynb)
 
+***Class 9: Linear Regression + Titanic Lab***
+
+* [Linear Regression Notebook](https://github.com/betamore/adS17/blob/master/notebooks/04-linear_regression.ipynb)
+* [Titanic Lab](https://github.com/betamore/adS17/blob/master/notebooks/06_titanic.md)
+
+
 
 
 
